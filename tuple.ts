@@ -1,0 +1,1 @@
+const tupleAboutMe : [string, number] = ['Ashwini', 30];
